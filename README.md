@@ -12,7 +12,7 @@ The dashboard processes exported wearable-device data and presents interactive v
 - Circadian rhythm patterns
 - Longitudinal wellness metrics
 
-This project was developed using Python and Streamlit, technologies that were new to me when starting the project.
+This project was developed using Python and Streamlit, technologies that were new to me when starting the project. This project was deployed on Steamlit with the link: https://recovery-inequity-dashboard-pwsbesfwdag2wdpu8pyr6j.streamlit.app/
 
 ---
 
