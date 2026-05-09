@@ -97,3 +97,6 @@ I still needed to manually debug dependency installation issues, correct file pa
 ```bash
 git clone https://github.com/pocketnuggets/recovery-inequity-dashboard.git
 cd recovery-inequity-dashboard
+
+<img width="1680" height="925" alt="Screenshot 2026-05-09 at 10 07 52 AM" src="https://github.com/user-attachments/assets/4d9c732f-adaf-402d-8782-df03e45cd8d7" />
+Screenshot of the dashboard homepage, heart rate trend visualization, activity correlation charts, and recovery metric summaries
